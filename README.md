@@ -2,8 +2,8 @@
 
 # Laptop Sticker Designs
 
-- If you have an idea for a sticker but want/need someone else to design it? create an issue, provide the detailed description.
-- If you have a design for a sticker, open a pull request and add it to this repo
+- If you have an idea for a sticker but want/need someone else to design it - create an issue, provide the detailed description.
+- If you have a design for a sticker and want to contribute it here, feel free to open a pull request
 
 The design files made are ready for print, in vector format, CMYK colors.
 
