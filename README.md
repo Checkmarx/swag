@@ -10,7 +10,7 @@ The design files made are ready for print, in vector format, CMYK colors.
 
 ### How do I receive swag?
 - Print it yourself (send the files to a business producing stickers)
-- Come and say hi in conferenses Checkmarx attend
+- Come and say hi in conferences Checkmarx attend
 
 
 ### License and Attribution
