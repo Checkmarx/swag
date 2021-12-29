@@ -2,8 +2,15 @@
 
 # Laptop Sticker Designs
 
-- If you have an idea for a sticker but want/need someone else to design it - create an issue, provide the detailed description.
-- If you have a design for a sticker and want to contribute it here, feel free to open a pull request
+
+### Sticker Request
+If you have a sticker idea but you want/need us to design it, you can [fill this form](https://forms.gle/FCfotyo5eauZjNDq9) or [create an issue](https://github.com/Checkmarx/swag/issues) on this repo.
+
+### Contributing
+
+If you are a designer and want to contribute a sticker design here, feel free to open a pull request.
+
+---
 
 The design files made are ready for print, in vector format, CMYK colors.
 
